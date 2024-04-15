@@ -94,3 +94,7 @@ svg {
     height: 500px;
     background-color: yellow;
 }
+
+a {
+    color: rgb(190, 212, 228);
+}
