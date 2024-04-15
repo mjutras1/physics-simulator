@@ -20,7 +20,7 @@ function add_mass() {
     circle.setAttribute('fill', colors[(masses-1)%colors.length])
     svg.appendChild(circle);
 }
-document.body.appendChild(svg);
+map.appendChild(svg);
 map.addEventListener("mousemove", function(e){
     let mouseX = String(e.offsetX);
     let mouseY = String(map.offsetHeight - e.offsetY);
