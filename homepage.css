@@ -138,7 +138,7 @@ input{
     color: #333;
 }
 
-button{
+.nav-bar button{
     background: transparent;
     border: 0;
     outline: 0;
