@@ -37,6 +37,11 @@ let availableKeywords = [
     'Home' ,
     'About' ,
     'Team' ,
+    'Physics Simulator' ,
+    'Physics' ,
+    'Simulator' ,
+    'Physics Engine' ,
+    'Engine' ,
 ];
 
 //Next few lines are used to display the available words in the search drum//

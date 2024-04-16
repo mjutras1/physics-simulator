@@ -139,7 +139,8 @@ input{
 }
 
 button{
-    background: green;
+    background-color: green;
+    border-radius: 10px;
 }
 
 .nav-bar button{
