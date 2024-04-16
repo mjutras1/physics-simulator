@@ -138,6 +138,10 @@ input{
     color: #333;
 }
 
+button{
+    background: green;
+}
+
 .nav-bar button{
     background: transparent;
     border: 0;
